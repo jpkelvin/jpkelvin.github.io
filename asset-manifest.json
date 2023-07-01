@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/jpkelvin.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/jpkelvin.github.io/static/js/main.44dfa44e.js",
+    "main.css": "/jpkelvin.github.io/static/css/main.26f8fd5e.css",
+    "main.js": "/jpkelvin.github.io/static/js/main.22256019.js",
     "static/js/787.c6bbfad9.chunk.js": "/jpkelvin.github.io/static/js/787.c6bbfad9.chunk.js",
-    "static/media/logo.svg": "/jpkelvin.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jpkelvin.github.io/index.html",
-    "main.073c9b0a.css.map": "/jpkelvin.github.io/static/css/main.073c9b0a.css.map",
-    "main.44dfa44e.js.map": "/jpkelvin.github.io/static/js/main.44dfa44e.js.map",
+    "main.26f8fd5e.css.map": "/jpkelvin.github.io/static/css/main.26f8fd5e.css.map",
+    "main.22256019.js.map": "/jpkelvin.github.io/static/js/main.22256019.js.map",
     "787.c6bbfad9.chunk.js.map": "/jpkelvin.github.io/static/js/787.c6bbfad9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.44dfa44e.js"
+    "static/css/main.26f8fd5e.css",
+    "static/js/main.22256019.js"
   ]
 }
